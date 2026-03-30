@@ -5,4 +5,4 @@ params:
 
 ---
 
-``{{< contact >}}
+Escribinos para consultas
