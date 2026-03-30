@@ -5,4 +5,4 @@ params:
 
 ---
 
-{{< contact >}}
+``{{< contact >}}
