@@ -1,0 +1,55 @@
+---
+title: ""
+baseURL: "https://example.org/"
+theme: "zen"
+languageCode: "es-ar"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "info@example.org"
+  description: "QuICC group website"
+  dateformat: "2 January, 2006"
+  favicon: "quicc_logo.png"
+  feedlinks: true
+  icon: "quicc_logo.png"
+  image: "quicc_logo.png"
+  imageMaxWidth: 800
+  logo: "quicc_logo.png"
+  logo_alt: "Logo QuICC"
+  logoWidth: 400
+  mobileMenu: true
+  poweredby: true
+  sidebar: true
+  submitted: true
+  author:
+    name: "quicc"
+    url: "https://example.org/somepage"
+    avatar: "path/to/some-image.jpg"
+
+menu:
+  main:
+    - name: Inicio
+      url: /
+      weight: 10
+    - name: Integrantes
+      url: /integrantes/
+      weight: 20
+    - name: Líneas de Investigación
+      url: /lineas-investigacion/
+      weight: 30
+    - name: Novedades
+      url: /novedades/
+      weight: 40

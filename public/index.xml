@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Information, Computation and Communication on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Quantum Information, Computation and Communication on </description>
+    <generator>Hugo</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Sat, 28 Mar 2026 23:16:29 -0300</lastBuildDate>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lineas Investigacion</title>
+      <link>http://localhost:1313/lineas-investigacion/</link>
+      <pubDate>Sat, 28 Mar 2026 23:16:26 -0300</pubDate>
+      <guid>http://localhost:1313/lineas-investigacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/documentation/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentation/configuration/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;success message hidden&#34; data-contact-submitted&gt;Your message was sent.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;error message hidden&#34; data-contact-error&gt;There was an error sending the message.&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;contact-form hidden&#34; data-protect=&#34;/php/contact.php&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;edit-name&#34;&gt;Name&lt;/label&gt;&#xD;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-name&#34; name=&#34;name&#34; placeholder=&#34;Your name&#34; required autofocus&gt;&#xD;&#xA;  &lt;label for=&#34;edit-mail&#34;&gt;E-mail address&lt;/label&gt;&#xD;&#xA;  &lt;input type=&#34;email&#34; id=&#34;edit-mail&#34; name=&#34;email&#34; placeholder=&#34;Your e-mail address&#34; required&gt;&#xD;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-url&#34; class=&#34;hidden&#34; name=&#34;url&#34; placeholder=&#34;Skip if you are a human&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;edit-subject&#34;&gt;Subject&lt;/label&gt;&#xD;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-subject&#34; name=&#34;subject&#34; placeholder=&#34;A short subject&#34; required&gt;&#xD;&#xA;  &lt;label for=&#34;edit-message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;  &lt;textarea id=&#34;edit-message&#34; name=&#34;message&#34; rows=&#34;5&#34; placeholder=&#34;The messages go here…&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;  &lt;button type=&#34;submit&#34; name=&#34;submit&#34; disabled&gt;Send message&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&#xA;</description>
+    </item>
+    <item>
+      <title>Create a theme</title>
+      <link>http://localhost:1313/documentation/create-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentation/create-theme/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/documentation/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentation/install/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Integrantes del Grupo</title>
+      <link>http://localhost:1313/integrantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/integrantes/</guid>
+      <description>&lt;h3 id=&#34;dr-santiago-figueira&#34;&gt;&lt;strong&gt;Dr. Santiago Figueira&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/figueira.jpg&#34; alt=&#34;Santiago Figueira&#34;&gt;&#xA;&lt;em&gt;Investigador Principal CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt; | &lt;a href=&#34;https://glyc.dc.uba.ar/santiago/&#34;&gt;Web Personal&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-ariel-bendersky&#34;&gt;&lt;strong&gt;Dr. Ariel Bendersky&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/bendersky.jpg&#34; alt=&#34;Ariel Bendersky&#34;&gt;&#xA;&lt;em&gt;Investigador Adjunto CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-gustavo-m-bosyk&#34;&gt;&lt;strong&gt;Dr. Gustavo M. Bosyk&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/bosyk.jpg&#34; alt=&#34;Gustavo Bosyk&#34;&gt;&#xA;&lt;em&gt;Investigador Independiente CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-marcelo-losada&#34;&gt;&lt;strong&gt;Dr. Marcelo Losada&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/losada.jpg&#34; alt=&#34;Marcelo Losada&#34;&gt;&#xA;&lt;em&gt;Investigador Asistente CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-guido-bellomo&#34;&gt;&lt;strong&gt;Dr. Guido Bellomo&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/bellomo.jpg&#34; alt=&#34;Guido Bellomo&#34;&gt;&#xA;&lt;em&gt;Investigador Asistente CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;nicolás-ciancaglini&#34;&gt;&lt;strong&gt;Nicolás Ciancaglini&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/ciancaglini.jpg&#34; alt=&#34;Nicolás Ciancaglini&#34;&gt;&#xA;&lt;em&gt;Becario Doctoral CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;santiago-cifuentes&#34;&gt;&lt;strong&gt;Santiago Cifuentes&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/cifuentes.jpg&#34; alt=&#34;Santiago Cifuentes&#34;&gt;&#xA;&lt;em&gt;Becario Doctoral CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;franco-meroi&#34;&gt;&lt;strong&gt;Franco Meroi&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/meroi.jpg&#34; alt=&#34;Franco Meroi&#34;&gt;&#xA;&lt;em&gt;Becario Doctoral CONICET&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://scholar.google.com.ar/citations?user=WzLmB-4AAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;martín-santesteban&#34;&gt;&lt;strong&gt;Martín Santesteban&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/santesteban.jpg&#34; alt=&#34;Martín Santesteban&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;gonzalo-&#34;&gt;&lt;strong&gt;Gonzalo ??&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/gonzalo.jpg&#34; alt=&#34;Gonzalo&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;zoe-marino&#34;&gt;&lt;strong&gt;Zoe Marino&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/marino.jpg&#34; alt=&#34;Zoe Marino&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;antonella-berzzotti&#34;&gt;&lt;strong&gt;Antonella Berzzotti&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/integrantes/berzzotti.jpg&#34; alt=&#34;Antonella Berzzotti&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;miembros-anteriores&#34;&gt;Miembros anteriores&lt;/h2&gt;&#xA;&lt;h3 id=&#34;dr-alejandro-diaz-caro&#34;&gt;&lt;strong&gt;Dr. Alejandro Diaz-Caro&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-gabriel-senno&#34;&gt;&lt;strong&gt;Dr. Gabriel Senno&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;dr-ignacio-perito&#34;&gt;&lt;strong&gt;Dr. Ignacio Perito&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;patricio-bruno&#34;&gt;&lt;strong&gt;Patricio Bruno&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Quickstart</title>
+      <link>http://localhost:1313/documentation/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documentation/quickstart/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;info message hidden&#34; data-search-loading&gt;Loading search index…&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;div data-search-input class=&#34;hidden&#34;&gt;&#xD;&#xA;  &lt;form data-search-form id=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;query&#34; class=&#34;visually-hidden&#34;&gt;Search&lt;/label&gt;&#xD;&#xA;    &lt;input data-search-text type=&#34;search&#34; id=&#34;query&#34; name=&#34;query&#34; placeholder=&#34;Enter the terms you wish to search for.&#34; maxlength=&#34;128&#34;&gt;&#xD;&#xA;  &lt;/form&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;div data-search-results aria-live=&#34;polite&#34;&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;template&gt;&#xD;&#xA;  &lt;article data-search-result class=&#34;list-view&#34;&gt;&#xD;&#xA;    &lt;header&gt;&#xD;&#xA;      &lt;h2 class=&#34;title mt--s mb--xxs&#34;&gt;&lt;a href=&#34;#&#34;&gt;Title here&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&lt;time class=&#34;created-date&#34;&gt;Date here&lt;/time&gt;&lt;/div&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;    &lt;p class=&#34;content&#34;&gt;Summary here&lt;/p&gt;&#xD;&#xA;  &lt;/article&gt;&#xD;&#xA;&lt;/template&gt;&#xD;&#xA;&#xA;</description>
+    </item>
+  </channel>
+</rss>

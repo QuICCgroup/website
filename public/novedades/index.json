@@ -1,0 +1,20 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Novedades on ",
+    "description": "Recent content in Novedades on ",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/novedades/index.json",
+    "language": "es-ar",
+    "icon": "http://localhost:1313/quicc_logo.png",
+    "favicon": "http://localhost:1313/quicc_logo.png",
+    "authors": [
+        {
+            "name": "quicc",
+            "url": "https://example.org/somepage",
+            "avatar": "http://localhost:1313/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        ]
+}
